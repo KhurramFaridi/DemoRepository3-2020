@@ -1,1 +1,1 @@
-This is the First Document for Git Merge 'Merge-Commit'  Practice
+This is the First Document for Git Merge 'Merge-Commit'  Practice through Command Terminal
